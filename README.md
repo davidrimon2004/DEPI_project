@@ -7,6 +7,11 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 
 ---
 
+## 💻 Contributers
+- David Rimon Youssef  **git hub account:** https://github.com/davidrimon2004
+
+---
+
 ## 🎯 Objectives
 - Collect and preprocess sales data  
 - Explore sales patterns, seasonality, and external factors  
@@ -27,10 +32,3 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 *(To be added later)*
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/sales-forecasting-demand-prediction.git
-cd sales-forecasting-demand-prediction
