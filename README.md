@@ -9,6 +9,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 
 ## 💻 Contributers
 - David Rimon Youssef  **git hub account:** https://github.com/davidrimon2004
+- Hanen Osama Fayez   **git hub account:** https://github.com/Hanenosama
 
 ---
 
