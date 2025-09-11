@@ -11,8 +11,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 - David Rimon Youssef  **git hub account:** https://github.com/davidrimon2004
 - Hanen Osama Fayez   **git hub account:** https://github.com/Hanenosama
 -Youssef Mohamed Awad **git hub account** https://github.com/yosawad-3
-
-Mohamed Samy Gad Wasel **git hub account:** https://github.com/mohamed2005x
+-Mohamed Samy Gad Wasel **git hub account:** https://github.com/mohamed2005x
 ---
 
 ## 🎯 Objectives
