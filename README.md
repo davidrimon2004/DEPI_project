@@ -50,6 +50,7 @@ data_path = "/content/drive/MyDrive/DEPI_project/data/your_dataset.csv"
 df = pd.read_csv(data_path)
 df.head()
 
+```
 ---
 
 ## 📂 Structure
