@@ -44,6 +44,7 @@ The dataset used in this project is **stored on Google Drive** and not included 
    from google.colab import drive
    drive.mount('/content/drive')
 2. **Read data form the drive**
+```python
 import pandas as pd
 data_path = "/content/drive/MyDrive/DEPI_project/data/your_dataset.csv"
 df = pd.read_csv(data_path)
