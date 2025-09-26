@@ -17,8 +17,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 ## 🎯 Objectives
 - Collect and preprocess sales data  
 - Explore sales patterns, seasonality, and external factors  
-- Build and compare forecasting models (ARIMA, Prophet, Random Forest, LSTM)  
-- Evaluate using MAE, RMSE, R²  
+- Build and compare forecasting models  
 - Deploy the best model with MLOps for monitoring and retraining  
 
 ---
