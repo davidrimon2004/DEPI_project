@@ -26,6 +26,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy   
 - **Version Control**: Git & GitHub  
+- **Project Management** : Trello
 
 ---
 
