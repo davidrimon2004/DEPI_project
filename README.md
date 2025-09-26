@@ -5,6 +5,7 @@ This project is the **graduation project of the Digital Egypt Pioneers Initiativ
 It builds a machine learning model to predict **future sales and demand** using historical data and external factors (seasonality, promotions, holidays).  
 The goal is to help businesses optimize **inventory, staffing, and marketing strategies**.
 
+
 ---
 
 ## 💻 Contributers
@@ -15,10 +16,10 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 ---
 
 ## 🎯 Objectives
-- Collect and preprocess sales data  
-- Explore sales patterns, seasonality, and external factors  
-- Build and compare forecasting models  
-- Deploy the best model with MLOps for monitoring and retraining  
+- Collect and preprocess historical sales and demand data.
+- Identify key features that influence sales trends.
+- Build, train, and optimise forecasting models to predict future sales and demand.
+- Deploy the best-performing model to generate forecasts in real-time or in batches.
 
 ---
 
@@ -33,8 +34,9 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 # 📂 Data Instructions
 
 The dataset used in this project is **stored on Google Drive** and not included directly in the repository to keep it lightweight.
-**Google drive link:** https://drive.google.com/drive/folders/1I2UHoYxcy7lon1ZqyvUADWUjkrMQjXB4?usp=sharing
+**Google drive link**: https://drive.google.com/drive/folders/1I2UHoYxcy7lon1ZqyvUADWUjkrMQjXB4?usp=sharing
 
+ **You can find the data documentation here**: https://docs.google.com/document/d/1AbL9djnJ7XeluVX9NpjAVx3-gJJeqBjFhrtvIAh2MMg/edit?usp=sharing
 ---
 
 ## 🔗 Accessing Data in Google Colab
