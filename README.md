@@ -36,7 +36,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 The dataset used in this project is **stored as kaggle dataset** and not included directly in the repository to keep it lightweight.
  **You can find the data documentation here**: https://docs.google.com/document/d/1AbL9djnJ7XeluVX9NpjAVx3-gJJeqBjFhrtvIAh2MMg/edit?usp=sharing
  
- ---
+
 
 ## 🔗 Accessing Data 
 Cleaned dataset link: https://www.kaggle.com/datasets/davidhalim2004/depi-dataset
