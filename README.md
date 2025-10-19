@@ -40,6 +40,3 @@ The dataset used in this project is **stored as kaggle dataset** and not include
 
 ## 🔗 Accessing Data 
 Cleaned dataset link: https://www.kaggle.com/datasets/davidhalim2004/depi-dataset
-
-```
-
