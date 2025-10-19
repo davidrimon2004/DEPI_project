@@ -33,25 +33,13 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 
 # 📂 Data Instructions
 
-The dataset used in this project is **stored on Google Drive** and not included directly in the repository to keep it lightweight.
-**Google drive link**: https://drive.google.com/drive/folders/1I2UHoYxcy7lon1ZqyvUADWUjkrMQjXB4?usp=sharing
-
+The dataset used in this project is ** stored as kaggle dataset ** and not included directly in the repository to keep it lightweight.
  **You can find the data documentation here**: https://docs.google.com/document/d/1AbL9djnJ7XeluVX9NpjAVx3-gJJeqBjFhrtvIAh2MMg/edit?usp=sharing
  
  ---
 
-## 🔗 Accessing Data in Google Colab
-
-1. **Mount Google Drive**:
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-2. **Read data form the drive**
-```python
-import pandas as pd
-data_path = "/content/drive/MyDrive/DEPI_project/data/your_dataset.csv"
-df = pd.read_csv(data_path)
-df.head()
+## 🔗 Accessing Data 
+Cleaned dataset link: https://www.kaggle.com/datasets/davidhalim2004/depi-dataset
 
 ```
 ---
