@@ -29,6 +29,7 @@ The goal is to help businesses optimize **inventory, staffing, and marketing str
 - **Libraries**: Pandas, NumPy   
 - **Version Control**: Git & GitHub  
 - **Project Management** : Trello
+- **Notebook hosting** : Kaggle
 
 ---
 
@@ -41,3 +42,7 @@ The dataset used in this project is **stored as kaggle dataset** and not include
 
 ## 🔗 Accessing Data 
 Cleaned dataset link: https://www.kaggle.com/datasets/davidhalim2004/depi-dataset
+
+## 🤖 Model 
+- **Model used**: XGBoost
+- **Type**: Tree based model
